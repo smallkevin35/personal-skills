@@ -1,0 +1,6 @@
+interface:
+  display_name: "巴菲特-深度研究"
+  short_description: "按两本价值投资著作做上市公司买方尽调，交付五年情景回报与离线 HTML 报告"
+  default_prompt: "使用 $buffett-deep-research，请巴菲特研究一下我指定的上市公司。"
+policy:
+  allow_implicit_invocation: true
